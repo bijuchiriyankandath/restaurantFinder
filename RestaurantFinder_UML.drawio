@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T23:09:36.112Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="qshX7eSEvYJB34MR6l_Q" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-06T23:10:25.895Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="enaS11CQ3eQWQsuQu0-J" version="13.10.9" type="github">
   <diagram id="Gzh830ZmulrSo7HcPigp" name="Page-1">
     <mxGraphModel dx="868" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -51,6 +51,12 @@
         </mxCell>
         <mxCell id="NGvDMcpf5pS3OicIXnfx-18" value="Find and Show Restaurant Details" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="515" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NGvDMcpf5pS3OicIXnfx-19" value="Display Menu Items and Cost" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="600" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NGvDMcpf5pS3OicIXnfx-20" value="Calculate Total Cost" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="690" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
