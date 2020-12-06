@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T23:29:36.348Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="TSCM83Z6kEkik8yp8mMG" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-06T23:32:11.713Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="JbbBK_FmdD0PmyJJ6z_G" version="13.10.9" type="github">
   <diagram id="Gzh830ZmulrSo7HcPigp" name="Page-1">
     <mxGraphModel dx="1240" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,23 +7,8 @@
         <mxCell id="NGvDMcpf5pS3OicIXnfx-44" value="Restaurant Finder" style="html=1;verticalAlign=top;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="110" y="70" width="590" height="740" as="geometry" />
         </mxCell>
-        <mxCell id="NGvDMcpf5pS3OicIXnfx-1" value="Customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="100" width="30" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="NGvDMcpf5pS3OicIXnfx-2" value="Restaurant Owner" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="100" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NGvDMcpf5pS3OicIXnfx-5" value="Search For Restaurant" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="95" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="NGvDMcpf5pS3OicIXnfx-6" value="Select A Restaurant" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="180" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="NGvDMcpf5pS3OicIXnfx-7" value="Select Items From Menu" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="270" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="NGvDMcpf5pS3OicIXnfx-8" value="Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="457" y="95" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NGvDMcpf5pS3OicIXnfx-9" value="Add Restaurant Details" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="457" y="180" width="140" height="70" as="geometry" />
@@ -38,16 +23,16 @@
           <mxGeometry x="457" y="450" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NGvDMcpf5pS3OicIXnfx-13" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="360" width="30" height="60" as="geometry" />
+          <mxGeometry x="50" y="102.5" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NGvDMcpf5pS3OicIXnfx-14" value="Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="355" width="140" height="70" as="geometry" />
+          <mxGeometry x="190" y="97.5" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NGvDMcpf5pS3OicIXnfx-15" value="Approve Restaurants" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="440" width="140" height="70" as="geometry" />
+          <mxGeometry x="190" y="182.5" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NGvDMcpf5pS3OicIXnfx-16" value="Remove Restaurants" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="520" width="140" height="70" as="geometry" />
+          <mxGeometry x="190" y="262.5" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NGvDMcpf5pS3OicIXnfx-17" value="RestaurantFinder System" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="540" width="30" height="60" as="geometry" />
@@ -61,45 +46,27 @@
         <mxCell id="NGvDMcpf5pS3OicIXnfx-20" value="Calculate Total Cost" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="457" y="730" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="NGvDMcpf5pS3OicIXnfx-26" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NGvDMcpf5pS3OicIXnfx-1" target="NGvDMcpf5pS3OicIXnfx-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="150" as="sourcePoint" />
-            <mxPoint x="200" y="100" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NGvDMcpf5pS3OicIXnfx-27" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NGvDMcpf5pS3OicIXnfx-1" target="NGvDMcpf5pS3OicIXnfx-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="95" y="140" as="sourcePoint" />
-            <mxPoint x="200" y="210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NGvDMcpf5pS3OicIXnfx-29" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="NGvDMcpf5pS3OicIXnfx-1" target="NGvDMcpf5pS3OicIXnfx-7">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="90" y="130" as="sourcePoint" />
-            <mxPoint x="230" y="150" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="NGvDMcpf5pS3OicIXnfx-30" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NGvDMcpf5pS3OicIXnfx-13" target="NGvDMcpf5pS3OicIXnfx-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="95" y="140" as="sourcePoint" />
-            <mxPoint x="200" y="390" as="targetPoint" />
+            <mxPoint x="75" y="-117.5" as="sourcePoint" />
+            <mxPoint x="180" y="132.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NGvDMcpf5pS3OicIXnfx-31" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NGvDMcpf5pS3OicIXnfx-13" target="NGvDMcpf5pS3OicIXnfx-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="95" y="400" as="sourcePoint" />
-            <mxPoint x="220" y="400" as="targetPoint" />
+            <mxPoint x="75" y="142.5" as="sourcePoint" />
+            <mxPoint x="200" y="142.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NGvDMcpf5pS3OicIXnfx-32" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NGvDMcpf5pS3OicIXnfx-13" target="NGvDMcpf5pS3OicIXnfx-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="105" y="410" as="sourcePoint" />
-            <mxPoint x="230" y="410" as="targetPoint" />
+            <mxPoint x="85" y="152.5" as="sourcePoint" />
+            <mxPoint x="210" y="152.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NGvDMcpf5pS3OicIXnfx-33" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NGvDMcpf5pS3OicIXnfx-8" target="NGvDMcpf5pS3OicIXnfx-2">
+        <mxCell id="NGvDMcpf5pS3OicIXnfx-33" value="" style="endArrow=none;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NGvDMcpf5pS3OicIXnfx-14" target="NGvDMcpf5pS3OicIXnfx-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="150" as="sourcePoint" />
+            <mxPoint x="597" y="129.9999999999999" as="sourcePoint" />
             <mxPoint x="695" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -143,6 +110,36 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="612.94" y="599.01" as="sourcePoint" />
             <mxPoint x="740" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NGvDMcpf5pS3OicIXnfx-45" value="Customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="365" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NGvDMcpf5pS3OicIXnfx-46" value="Search For Restaurant" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="360" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NGvDMcpf5pS3OicIXnfx-47" value="Select A Restaurant" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="445" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NGvDMcpf5pS3OicIXnfx-48" value="Select Items From Menu" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="535" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NGvDMcpf5pS3OicIXnfx-49" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NGvDMcpf5pS3OicIXnfx-45" target="NGvDMcpf5pS3OicIXnfx-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="415" as="sourcePoint" />
+            <mxPoint x="180" y="365" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NGvDMcpf5pS3OicIXnfx-50" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NGvDMcpf5pS3OicIXnfx-45" target="NGvDMcpf5pS3OicIXnfx-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="75" y="405" as="sourcePoint" />
+            <mxPoint x="180" y="475" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NGvDMcpf5pS3OicIXnfx-51" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="NGvDMcpf5pS3OicIXnfx-45" target="NGvDMcpf5pS3OicIXnfx-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="395" as="sourcePoint" />
+            <mxPoint x="210" y="415" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
