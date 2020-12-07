@@ -1,15 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T00:45:20.336Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="WsXTzin91ACbARacdky5" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T00:54:47.156Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="U1ac0FZXxg7wyLx34CG6" version="13.10.9" type="github">
   <diagram id="O6zdtNQmStbpvojCZWaM" name="Page-1">
     <mxGraphModel dx="868" dy="1620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="myQUqtYvPfcLgh1cWk7M-13" value="Admin" style="swimlane;startSize=20;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-1060" width="120" height="320" as="geometry" />
+          <mxGeometry x="60" y="-1060" width="163" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="myQUqtYvPfcLgh1cWk7M-69" value="Approve Restaurant" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="myQUqtYvPfcLgh1cWk7M-13">
+          <mxGeometry x="18" y="130" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="myQUqtYvPfcLgh1cWk7M-72" value="Remove Restaurant" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="myQUqtYvPfcLgh1cWk7M-13">
+          <mxGeometry x="28" y="230" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="myQUqtYvPfcLgh1cWk7M-14" value="Restaurant Owner" style="swimlane;startSize=20;" vertex="1" parent="1">
-          <mxGeometry x="200" y="-1060" width="150" height="320" as="geometry">
+          <mxGeometry x="223" y="-1060" width="180" height="320" as="geometry">
             <mxRectangle x="180" y="-1080" width="140" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="myQUqtYvPfcLgh1cWk7M-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="myQUqtYvPfcLgh1cWk7M-14" source="myQUqtYvPfcLgh1cWk7M-60" target="myQUqtYvPfcLgh1cWk7M-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="myQUqtYvPfcLgh1cWk7M-60" value="Login" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="myQUqtYvPfcLgh1cWk7M-14">
+          <mxGeometry x="12.5" y="80" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="myQUqtYvPfcLgh1cWk7M-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="myQUqtYvPfcLgh1cWk7M-14" source="myQUqtYvPfcLgh1cWk7M-61" target="myQUqtYvPfcLgh1cWk7M-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="myQUqtYvPfcLgh1cWk7M-61" value="" style="ellipse;fillColor=#000000;strokeColor=none;" vertex="1" parent="myQUqtYvPfcLgh1cWk7M-14">
+          <mxGeometry x="60" y="30" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="myQUqtYvPfcLgh1cWk7M-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="myQUqtYvPfcLgh1cWk7M-14" source="myQUqtYvPfcLgh1cWk7M-63" target="myQUqtYvPfcLgh1cWk7M-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="myQUqtYvPfcLgh1cWk7M-63" value="Add / Update Restaurant&amp;nbsp;" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="myQUqtYvPfcLgh1cWk7M-14">
+          <mxGeometry x="12.5" y="130" width="147.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="myQUqtYvPfcLgh1cWk7M-64" value="Add Menu Items and Cost" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="myQUqtYvPfcLgh1cWk7M-14">
+          <mxGeometry x="12.5" y="180" width="157.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="myQUqtYvPfcLgh1cWk7M-67" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="myQUqtYvPfcLgh1cWk7M-14">
+          <mxGeometry x="60" y="290" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="myQUqtYvPfcLgh1cWk7M-71" value="Restaurant Closed" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="myQUqtYvPfcLgh1cWk7M-14">
+          <mxGeometry x="12.5" y="230" width="157.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="myQUqtYvPfcLgh1cWk7M-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="myQUqtYvPfcLgh1cWk7M-14" source="myQUqtYvPfcLgh1cWk7M-64" target="myQUqtYvPfcLgh1cWk7M-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="57" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="myQUqtYvPfcLgh1cWk7M-16" value="Customer" style="swimlane;startSize=20;" vertex="1" parent="1">
@@ -114,7 +152,7 @@
           <mxGeometry x="105" y="600" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="myQUqtYvPfcLgh1cWk7M-18" value="Restaurant Finder System" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="20" y="-1080" width="820" height="750" as="geometry">
+          <mxGeometry x="60" y="-1080" width="780" height="750" as="geometry">
             <mxRectangle x="80" y="-1080" width="180" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -149,6 +187,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="myQUqtYvPfcLgh1cWk7M-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="myQUqtYvPfcLgh1cWk7M-51" target="myQUqtYvPfcLgh1cWk7M-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="myQUqtYvPfcLgh1cWk7M-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="myQUqtYvPfcLgh1cWk7M-63" target="myQUqtYvPfcLgh1cWk7M-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="myQUqtYvPfcLgh1cWk7M-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="myQUqtYvPfcLgh1cWk7M-71" target="myQUqtYvPfcLgh1cWk7M-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
